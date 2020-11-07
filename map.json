@@ -879,7 +879,25 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":9,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":37,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":38,
                  "properties":[
                         {
                          "name":"collides",
@@ -970,7 +988,7 @@
         {
          "columns":38,
          "firstgid":8161,
-         "image":"..\/TilemapDayLarge.png",
+         "image":"TilemapDayLarge.png",
          "imageheight":1024,
          "imagewidth":1216,
          "margin":0,
